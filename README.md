@@ -94,5 +94,5 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Abhishek sharma
 </div>
