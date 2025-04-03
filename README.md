@@ -9,8 +9,6 @@
 
 A powerful web scraping tool powered by AI that allows you to extract information from any website using OpenAI's language models.
 
-[Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/web_scrapping_ai_agent/issues) • [Request Feature](https://github.com/yourusername/web_scrapping_ai_agent/issues)
-
 </div>
 
 ## ✨ Features
@@ -43,8 +41,7 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/web_scrapping_ai_agent.git
-   cd web_scrapping_ai_agent
+   git clone https://github.com/sabhi728/web_scrapping_ai_agent.git
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -83,23 +80,10 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 "Extract all product names and prices from this e-commerce website"
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- Your Name - [@yourusername](https://github.com/yourusername)
+- Your Name - [@sabhi782](https://github.com/sabhi728)
 
 ## 🙏 Acknowledgments
 
