@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.24.0-FF4B4B.svg)](https://streamlit.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991.svg)](https://openai.com/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A powerful web scraping tool powered by AI that allows you to extract information from any website using OpenAI's language models.
 
@@ -83,7 +82,7 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 
 ## 👥 Authors
 
-- Your Name - [@sabhi782](https://github.com/sabhi728)
+-  [@sabhi782](https://github.com/sabhi728)
 
 ## 🙏 Acknowledgments
 
